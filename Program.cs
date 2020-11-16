@@ -67,7 +67,7 @@ namespace TODO
             
             foreach (var item in models)
             {
-                Console.WriteLine($"{item.Key} {item.Priority} \t {item.Title} \t {item.Details}");
+                Console.WriteLine($"{item.Key} \t {item.Priority} \t {item.Title} \t {item.Details}");
             }
         }
 
