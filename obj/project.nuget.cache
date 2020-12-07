@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "P0JAO7xjvRnFgRTr98/LuyVLILyB9/+zaqj5NOl6QjruNz4he3TPoamIQ01CswggzCE/DzdrRK+IWmtiE6edpg==",
+  "dgSpecHash": "azwXIW+1ydJujsFbfJDI72ImFdqqswSb2DWp8tmwTg1Z67krsi+US9sSkvWwRm1o3bHFpv+ID/fFJK2RQZlhNQ==",
   "success": true,
   "projectFilePath": "/home/andy/Documents/projects/TODO/TODO.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/andy/.nuget/packages/mcmaster.extensions.commandlineutils/3.1.0-rc.371/mcmaster.extensions.commandlineutils.3.1.0-rc.371.nupkg.sha512",
+    "/home/andy/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
